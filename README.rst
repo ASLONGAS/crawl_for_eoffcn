@@ -1,8 +1,12 @@
 ======
+这是一个简易的利用scrapy框架完成的爬虫
+======
+由于中公教育没有下载地址，所以为了方便下载，做了这样一个爬虫爬取图片打印。
+
+
 dirbot
 ======
-
-This is a Scrapy project to scrape websites from public web directories.
+This is a Scrapy project to scrmZpe websites from public web directories.
 
 This project is only meant for educational purposes.
 
